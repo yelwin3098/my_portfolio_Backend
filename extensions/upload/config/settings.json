@@ -1,0 +1,8 @@
+{
+    "provider": "cloudinary",
+    "providerOptions": {
+      "cloud_name": "dddodjiwq",
+      "api_key": "335261453121282",
+      "api_secret": "I59_FNrQNopmEt3IMbFXetQzM30"
+    }
+  }
